@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nome": "Mar do Norte",
+        "localizacao": "Europa",
+        "ph": 8.1,
+        "turbidez": 5,
+        "temperatura": 15
+    },
+    {
+        "id": 2,
+        "nome": "Mar Mediterrâneo",
+        "localizacao": "Europa, África, Ásia",
+        "ph": 8.3,
+        "turbidez": 3,
+        "temperatura": 20
+    },
+    {
+        "id": 3,
+        "nome": "Mar Báltico",
+        "localizacao": "Europa",
+        "ph": 7.8,
+        "turbidez": 7,
+        "temperatura": 10
+    }
+]
